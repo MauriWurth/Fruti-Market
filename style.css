@@ -17,7 +17,7 @@ html {
 
 body {
     /* width: 100vw; */
-    background-image: url('/resources/img/floor-wood-floating-floor.webp');
+    background-image: url('./resources/img/floor-wood-floating-floor.webp');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
